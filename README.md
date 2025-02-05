@@ -1,4 +1,4 @@
-# mobile_assignment
+# Food_App
 
 A new Flutter project.
 
